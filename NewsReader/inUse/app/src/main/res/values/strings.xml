@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsReader</string>
+    <string name="escoge_un_elemento_de_la_lista" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

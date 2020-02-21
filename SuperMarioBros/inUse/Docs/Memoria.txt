@@ -1,0 +1,43 @@
+24/10/2019
+	Creación del primer nivel: plataformas y personaje
+	Movimiento del jugador a derecha e izquierda y saltos
+	Seguimiento del jugador con la cámara (cinemachine)
+
+29/10/2019
+	Animación jugador andando
+	Colisiones con las plataformas
+
+30/10/2019
+	Collider caída al vacío + vuelta a la posición inicial
+	Evitar saltos múltiples
+	Animación andando (diferenciando el sentido)
+	
+31/10/2019
+	Animación salto jugador
+	Colisiones con tuberías
+	Crear prefabs para cada tipo de tubería
+	Adaptar vista de la cámara al juego original
+	Crear un prefab para el mastil de la pole, con collider
+	Nivel completado al llegar a la pole
+	
+05/11/2019
+	Movimiento automático hacia la izquierda de los enemigos
+	Colisiones con enemigos
+	Crear prefab enemigos
+
+06/11/2019
+	Animación enemigo muerto
+	Animación jugador muerto
+	Los enemigos nos matan y volvemos a la posición inicial
+	Matar enemigos saltando encima de ellos
+	Aparece la bandera de pole al terminar el nivel
+	Clase GameController
+	Canvas con marcador de puntos y nivel actual
+
+----------------------------------------------------------------------------------------
+
+Mejoras pendientes:
+Tiempo de juego
+Animación bandera al terminar nivel
+Obtener moneda al golpear los bloques ?
+Sonidos
